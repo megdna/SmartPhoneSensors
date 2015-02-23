@@ -4,7 +4,7 @@ This is a code book that describes the data, the variables, its values, and any 
 
 For information on how the data was collected for this experiment, please view the full description of the Human Activity Recognition Using Smartphones Data Set at: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-For a detailed breakdown of the processing and analysis performed on this data set, please refer to the README in this repository.  In short, the raw data from activity sensors in the Samsung Galazy S smartphone was converted to a tidy data set containing the average of the mean and standard deviation for each variable for each activity and each subject (see below).
+For a detailed breakdown of the processing and analysis performed on this data set, please refer to the README in this repository.  In short, the raw data from activity sensors in the Samsung Galaxy S smartphone was converted to a tidy data set containing the average of the mean and standard deviation for each variable for each activity and each subject (see below).
 
 #### Code Book
 
